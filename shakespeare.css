@@ -1,0 +1,44 @@
+h1 {
+  weight: bold;
+  font-style: italic;
+  text-align: center;
+  font-family: Impact;
+  font-size: 34px;
+  border-bottom: 4px dotted black;
+  margin-top: 1px;
+}
+
+p {
+  padding-left: 35px;
+  padding-right: 35px;
+  font-size: 12px;
+  font-family: Verdana;
+}
+
+h4 {
+  text-align: center;
+  font-style: italic;
+  font-weight: normal;
+  font-family: Verdana;
+  font-size: 15px;
+}
+
+#footer {
+  text-align: center;
+  font-size: 10px;
+}
+
+#first {
+  font-weight: bold;
+}
+
+#all {
+  border: 4px dotted black;
+  background-color: beige;
+  margin-right: 110px;
+  margin-left: 110px;
+}
+
+body {
+    background-color: #ffa268;
+}
