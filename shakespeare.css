@@ -15,6 +15,12 @@ p {
   font-family: Verdana;
 }
 
+p.lines::first-letter {
+  font-size: 1.25 em;
+}
+
+<!-- and in HTML, turn spans into class = "lines", all p's contains in a div -->
+
 h4 {
   text-align: center;
   font-style: italic;
